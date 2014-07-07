@@ -9,9 +9,9 @@ El objetivo de este repositorio es aceptar propuestas de requisitos que no fuero
 Los requisitos que aceptamos deben:
 
 * Tener una explicación porqué el requisito es aplicable a más de una empresa Argentina.
-* Debe incorporar suficiente documentación clara y consisa para poder implementarse.
+* Debe incorporar suficiente documentación clara y concisa para poder implementarse.
  * Si lo que se requiere son reportes, los mismos deben ser incorporados en las propuestas.
- * Si lo que se requiere es una funcionalidad, la misma tiene que estar descripta con ejemplos bien consisos (ver casos de test)
+ * Si lo que se requiere es una funcionalidad, la misma tiene que estar descripta con ejemplos bien concisos (ver casos de test)
  * Si lo que se requiere es importar o exportar archivos, debe incorporar documentación que describa el formato de los archivos, o en consecuencia suficientes archivos de ejemplos para realizar ingeniería reversa.
 
 Una vez que complete estos items, lo invitamos a subir su propuesta a [Issues](https://github.com/odoo-l10n-ar/requisitos/issues).
