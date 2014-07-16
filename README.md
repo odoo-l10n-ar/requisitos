@@ -11,6 +11,7 @@ Los requisitos que aceptamos deben:
  * Si lo que se requiere son reportes, los mismos deben ser incorporados en las propuestas.
  * Si lo que se requiere es una funcionalidad, la misma tiene que estar descripta con ejemplos bien concisos (ver casos de test)
  * Si lo que se requiere es importar o exportar archivos, debe incorporar documentación que describa el formato de los archivos, o en consecuencia suficientes archivos de ejemplos para realizar ingeniería reversa.
+ * Si lo que quiere es subir un desarrollo propio, para nosotros eso es suficiente documentación. Por supuesto debe cumplir con los [requisitos de homologación](https://github.com/odoo-l10n-ar/odoo-l10n-ar.github.io/wiki/Homologaci%C3%B3n-de-M%C3%B3dulos) para que sea aceptado. Igual, es bienvenida cualquier información extra. En el caso de que usted haya desarrollado un módulo que resuelve una implementación ya resuelta le recomendamos que haga una exposición clara del porque debería pertenecer a la localización. Le recomendamos en este último caso que lea la [propuesta de organización de la localización](https://github.com/odoo-l10n-ar/odoo-l10n-ar.github.io/wiki/Propuesta-para-organizar-la-localizaci%C3%B3n-argentina)
 
 **Una vez que complete estos items, lo invitamos a subir su propuesta a [Issues](https://github.com/odoo-l10n-ar/requisitos/issues).**
 
