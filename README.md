@@ -1,10 +1,8 @@
-Requisitos
-==========
+# Requisitos
 
 El objetivo de este repositorio es aceptar propuestas de requisitos que no fueron implementados en esta localización. Por favor lea atentamente cómo realizar propuestas para que su implementación sea eficiente.
 
-¿Qué requisitos son aceptados?
-==============================
+## ¿Qué requisitos son aceptados?
 
 Los requisitos que aceptamos deben:
 
@@ -14,10 +12,9 @@ Los requisitos que aceptamos deben:
  * Si lo que se requiere es una funcionalidad, la misma tiene que estar descripta con ejemplos bien concisos (ver casos de test)
  * Si lo que se requiere es importar o exportar archivos, debe incorporar documentación que describa el formato de los archivos, o en consecuencia suficientes archivos de ejemplos para realizar ingeniería reversa.
 
-Una vez que complete estos items, lo invitamos a subir su propuesta a [Issues](https://github.com/odoo-l10n-ar/requisitos/issues).
+**Una vez que complete estos items, lo invitamos a subir su propuesta a [Issues](https://github.com/odoo-l10n-ar/requisitos/issues).**
 
-¿Cuánto tiempo llevará la implementación de los mismos?
-=======================================================
+## ¿Cuánto tiempo llevará la implementación de los mismos?
 
 Todo depende los recursos libres existentes, o del recurso monetario que esté disponible para ejecutarlo. Pero siempre respetaremos las siguientes etapas:
 
