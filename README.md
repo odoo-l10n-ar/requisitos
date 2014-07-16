@@ -1,6 +1,6 @@
 # Requisitos
 
-El objetivo de este repositorio es aceptar propuestas de requisitos que no fueron implementados en esta localización. Por favor lea atentamente cómo realizar propuestas para que su implementación sea eficiente.
+El objetivo de este repositorio es aceptar propuestas de [requisitos](http://es.wikipedia.org/wiki/Requisito_funcional) que no fueron implementados en esta localización. Por favor lea atentamente cómo realizar propuestas para que su implementación sea eficiente.
 
 ## ¿Qué requisitos son aceptados?
 
