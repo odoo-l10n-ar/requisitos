@@ -25,7 +25,7 @@ Todo depende los recursos libres existentes, o del recurso monetario que esté d
 * Asignación de módulo. Muchos de los requisitos se hacen funcionales por módulos. Si ya existe un módulo que puede implementar ese requisito, se creará un issue en ese módulo. En caso contrario se creará un nuevo módulo específico para ese requisito.
 * Asignación de desarrolladores. Se asignará un desarrollador responsable de diseñar e implementar el módulo.
 * Diseño del módulo. El módulo será diseñado a partir de la documentación publicada en el issue. Contará con su documentación para que otros desarrolladores puedan participar en el proyecto.
-* Implementación del módulo. Se aceptará aportes de cualquier desarrollador, y por supuesto se le asignará la autoría y el reconocimiento correspondiente.
+* Implementación del módulo. Se aceptará aportes de cualquier desarrollador, y por supuesto se le asignará la autoría y el reconocimiento correspondiente. Deberá cumplir con la estructura que se determina en la [Organización de los repositorios de los módulos](https://github.com/odoo-l10n-ar/odoo-l10n-ar.github.io/wiki/Organizaci%C3%B3n-de-los-repositorios-de-los-m%C3%B3dulos).
 * Evaluación del módulo. El módulo tendrá varias etapas de desarrollo, la primera es Draft, Alpha, Beta y Estable. Para cambiar de una a otra deben cumplirse varios requisitos a detallar:
  * Draft. el módulo recién está escribiendose. No es funcional o no tiene ningún test automático implementado.
  * Alpha. el módulo es funcional pero hay test automáticos que no se están cumpliendo.
